@@ -7,6 +7,6 @@ body{font-family:var(--f-fa),Tahoma,sans-serif}
 .en{direction:ltr;font-family:var(--f-serif),serif}
 .caps{direction:ltr;font-family:var(--f-sans),sans-serif;letter-spacing:.42em;text-transform:uppercase}
 .silver-text{background:linear-gradient(100deg,#8d8f93,#F5F5F2 45%,#BFC1C4 60%,#6b6d71);-webkit-background-clip:text;background-clip:text;color:transparent}
-.logo{filter:invert(1) contrast(1.1);mix-blend-mode:screen}
+.logo{mix-blend-mode:screen}
 .hair{height:1px;background:linear-gradient(90deg,transparent,#BFC1C4,transparent)}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
